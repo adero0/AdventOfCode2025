@@ -1,0 +1,1 @@
+These are the solutions for the advent of code 2025 event, not all problems are solved here. Most solutions aren't super optimal, but I try to make them at least nearly instant. You can freely copy and share this code, it's not licensed.
